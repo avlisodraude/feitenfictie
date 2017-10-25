@@ -107,6 +107,6 @@ $("document").ready(function () {
 
 // after clicking the remove btn the lists should be updated
 $(document).on("click", '.removeFilter', function (e) {
-    var text = feitFixie.getPrivateTermsList().replace(e.target.value, "");
-    callSearchTermsAndSegments(privateTermsList, removeTerm);
+    // var text = feitFixie.getPrivateTermsList().replace(e.target.value, "");
+    // callSearchTermsAndSegments(privateTermsList, removeTerm);
 });
