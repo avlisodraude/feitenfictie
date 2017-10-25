@@ -1,0 +1,65 @@
+{
+    "offset": 0,
+    "count": 8,
+    "type": [
+        "STRING"
+    ],
+    "items": [
+        {
+            "rank": 1,
+            "probability": 0.95719286,
+            "tuple": [
+                "insensitive"
+            ]
+        },
+        {
+            "rank": 2,
+            "probability": 0.89821308,
+            "tuple": [
+                "widow"
+            ]
+        },
+        {
+            "rank": 3,
+            "probability": 0.75392502,
+            "tuple": [
+                "remarks"
+            ]
+        },
+        {
+            "rank": 4,
+            "probability": 0.74807546,
+            "tuple": [
+                "denies"
+            ]
+        },
+        {
+            "rank": 5,
+            "probability": 0.66704684,
+            "tuple": [
+                "soldier"
+            ]
+        },
+        {
+            "rank": 6,
+            "probability": 0.65960687,
+            "tuple": [
+                "trump"
+            ]
+        },
+        {
+            "rank": 7,
+            "probability": 0.24011132,
+            "tuple": [
+                "the"
+            ]
+        },
+        {
+            "rank": 8,
+            "probability": 0.08857605,
+            "tuple": [
+                "congresswoman"
+            ]
+        }
+    ]
+}

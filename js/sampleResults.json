@@ -1,0 +1,270 @@
+{
+    "offset": 0,
+    "count": 10,
+    "type": [
+        "OBJ"
+    ],
+    "items": [
+        {
+            "rank": 1,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"entity.segment:97552494",
+                    "class": [
+                        "http:\/\/example.org\/segment"
+                    ],
+                    "attributes": {
+    "aggregationType":"segment",
+    "dmguid":"20160114010910308007904507980C16E66DA380000006084B00000D0F009961",
+    "languageid": 1,
+    "description":"De EU is bang dat de Poolse regering te veel macht uitoefent op de rechters en daardoor de democratie in Polen in gevaar is. Ook in Polen zelf is veel kritiek op de regering. INTERVIEW met woordvoerder Poolse actiegroep. TOESPRAAK van Frans Timmermans, vice-voorzitter Europese Commissie.",
+    "sequencenumber":"6",
+    "type":"Item",
+    "duration": 71686,
+    "startoncarrier": 881000,
+    "maintitles":"EU doet onderzoek naar onafhankelijkheid rechters in Polen",
+    "id":"97552494",
+    "carrierid":"17020059",
+    "carrierreference":"NOS_JOURNAAL_-WON01590079",
+    "endoncarrier": 952686
+}
+
+                }
+            ]
+        },
+        {
+            "rank": 2,
+            "probability": 0.89424763,
+            "tuple": [
+                {
+                    "id":"entity.segment:99095137",
+                    "class": [
+                        "http:\/\/example.org\/segment"
+                    ],
+                    "attributes": {
+    "aggregationType":"segment",
+    "dmguid":"20161028211035908007904507980C16E66DA380000005884B00000D0F005295",
+    "languageid": 1,
+    "description":"Voor de Poolse regering is een belangrijke deadline om de benoeming van 2 hoge rechters terug te draaien afgelopen. Die benoeming is volgens de EU een groot gevaar voor de Poolse democratie en rechtsstaat. Gisteren liet de Poolse premier weten daar geen boodschap aan te hebben. Gaat Brussel zijn tanden laten zien?Vanuit Krakau, correspondent Michiel Driebergen. Tags Radiobox: Artikel 7; Timmermans",
+    "externalID":"RBX_VPRO_5768593",
+    "sequencenumber":"1",
+    "type":"Item",
+    "duration": 266000,
+    "startoncarrier": 72129000,
+    "sourcecatalog":"POMS-RADIOBOX",
+    "maintitles":"Polen negeert de EU",
+    "id":"99095137",
+    "carrierid":"18647092",
+    "carrierreference":"2016102820RA1-RCR1610285I",
+    "endoncarrier": 72395000
+}
+
+                }
+            ]
+        },
+        {
+            "rank": 3,
+            "probability": 0.77490918,
+            "tuple": [
+                {
+                    "id":"entity.segment:97410514",
+                    "class": [
+                        "http:\/\/example.org\/segment"
+                    ],
+                    "attributes": {
+    "aggregationType":"segment",
+    "dmguid":"20160113215648608007904507980C16E66DA380000006084B00000D0F009937",
+    "languageid": 1,
+    "description":"De EU is bang dat de Poolse regering te veel macht uitoefent op de rechters en daardoor de democratie in Polen in gevaar is.",
+    "sequencenumber":"13",
+    "type":"Item",
+    "duration": 17844,
+    "startoncarrier": 72833610,
+    "sourcecatalog":"iNOS",
+    "maintitles":"EU doet onderzoek naar onafhankelijkheid rechters in Polen",
+    "id":"97410514",
+    "carrierid":"17019956",
+    "carrierreference":"NOS_JOURNAAL_-WON01590082",
+    "endoncarrier": 72851454
+}
+
+                }
+            ]
+        },
+        {
+            "rank": 4,
+            "probability": 0.73262089,
+            "tuple": [
+                {
+                    "id":"entity.segment:446545",
+                    "class": [
+                        "http:\/\/example.org\/segment"
+                    ],
+                    "attributes": {
+    "aggregationType":"segment",
+    "dmguid":"20140731192254908007904507980C16E66DA380000000564B00000D0F004195",
+    "languageid": 1,
+    "description":"Eerste Kamervoorzitter Yvonne Timmerman-Buck vindt referenda een gevaar voor de representatieve democratie. Na 17:30 uur: interview met Timmerman-Buck, die zegt dat de burgers niet betrokken genoeg zijn om een verantwoorde keus te maken en dat de volksvertegenwoordiging overbodig wordt als er regelmatig referenda gehouden worden.",
+    "externalID":"175384",
+    "type":"Item",
+    "duration": 0,
+    "startoncarrier": 0,
+    "sourcecatalog":"Radio Programma",
+    "maintitles":"RADIO 1 AVONDJOURNAAL",
+    "id":"446545",
+    "carrierid":"13886660",
+    "carrierreference":"2005060617RA1-RCD140731KZ",
+    "endoncarrier": 3599568
+}
+
+                }
+            ]
+        },
+        {
+            "rank": 5,
+            "probability": 0.73063318,
+            "tuple": [
+                {
+                    "id":"entity.segment:98228553",
+                    "class": [
+                        "http:\/\/example.org\/segment"
+                    ],
+                    "attributes": {
+    "aggregationType":"segment",
+    "dmguid":"20160120010317908007904507980C16E66DA380000006084B00000D0F011506",
+    "languageid": 1,
+    "description":"De EU heeft kritiek geuit op de Poolse overheid omdat de mediawet de rechtstaat in gevaar zou brengen. INTERVIEWS met: - Frans Timmermans, vice-president Europese Commissie; - Bert Koenders, minister van Buitenlandse Zaken.",
+    "sequencenumber":"12",
+    "type":"Item",
+    "duration": 82401,
+    "startoncarrier": 713667,
+    "sourcecatalog":"iNOS",
+    "maintitles":"Polen staat achter omstreden mediabeleid in de debat met EU",
+    "id":"98228553",
+    "carrierid":"17089657",
+    "carrierreference":"NOS_JOURNAAL_-WON01593598",
+    "endoncarrier": 796068
+}
+
+                }
+            ]
+        },
+        {
+            "rank": 6,
+            "probability": 0.65062853,
+            "tuple": [
+                {
+                    "id":"entity.segment:5857232",
+                    "class": [
+                        "http:\/\/example.org\/segment"
+                    ],
+                    "attributes": {
+    "aggregationType":"segment",
+    "languageid": 1,
+    "description":"BERICHTGEVING door verslaggever Sebastiaan Timmerman over het WK baanwielrennen in Polen (16:53 uur).",
+    "sequencenumber":"5",
+    "type":"Item",
+    "maintitles":"Sportoverzicht",
+    "id":"5857232"
+}
+
+                }
+            ]
+        },
+        {
+            "rank": 7,
+            "probability": 0.63192249,
+            "tuple": [
+                {
+                    "id":"entity.segment:95025034",
+                    "class": [
+                        "http:\/\/example.org\/segment"
+                    ],
+                    "attributes": {
+    "aggregationType":"segment",
+    "dmguid":"20140723005207308007904507980C16E66DA380000005876B00000D0F038858",
+    "languageid": 1,
+    "description":"REACTIES VAN: - Timmermans - Radoslaw Sikorski, minister van Buitenlandse Zaken Polen KRUISGESPREK met correspondent Chris Ostendorf.",
+    "sequencenumber":"5",
+    "type":"Item",
+    "duration": 152560,
+    "startoncarrier": 85052000,
+    "maintitles":"Minister Timmermans wil nieuwe sancties EU tegen Rusland wegens steun aan opstandelingen in Oekraïne",
+    "id":"95025034",
+    "carrierid":"13610004",
+    "carrierreference":"NOS_JOURNAAL_-WON01276588",
+    "endoncarrier": 85204560
+}
+
+                }
+            ]
+        },
+        {
+            "rank": 8,
+            "probability": 0.60302673,
+            "tuple": [
+                {
+                    "id":"entity.segment:41136",
+                    "class": [
+                        "http:\/\/example.org\/segment"
+                    ],
+                    "attributes": {
+    "aggregationType":"segment",
+    "languageid": 1,
+    "description":"Wedstrijdfragment van verslaggever Sebastiaan Timmerman van de kwalificatiewedstrijden voor de finales teamsprint met een valse start tussen Nederland en Polen.",
+    "sequencenumber":"22",
+    "type":"Item",
+    "maintitles":"Wielrennen: WK baanrennen",
+    "id":"41136"
+}
+
+                }
+            ]
+        },
+        {
+            "rank": 9,
+            "probability": 0.60302673,
+            "tuple": [
+                {
+                    "id":"entity.segment:5863054",
+                    "class": [
+                        "http:\/\/example.org\/segment"
+                    ],
+                    "attributes": {
+    "aggregationType":"segment",
+    "languageid": 1,
+    "description":"Met een VOORBESCHOUWING op de laatste dag van het WK baanwielrennen in het Poolse Pruszkov door verslaggever Sebastiaan Timmerman (12:12 uur).",
+    "sequencenumber":"4",
+    "type":"Item",
+    "maintitles":"Sportoverzicht",
+    "id":"5863054"
+}
+
+                }
+            ]
+        },
+        {
+            "rank": 10,
+            "probability": 0.57166732,
+            "tuple": [
+                {
+                    "id":"entity.segment:543055",
+                    "class": [
+                        "http:\/\/example.org\/segment"
+                    ],
+                    "attributes": {
+    "aggregationType":"segment",
+    "languageid": 1,
+    "description":"Interview met journaliste Malgorzata Bos over de toekomst van de Poolse democratie n.a.v. de arrestatie van oud-minister van Binnenlandse Zaken Jane Kaczmarek door gemaskerde mannen i.o.v. premier Jaroslaw Kaczynski vanwege zijn openlijke kritiek. Bos praat over de vraag of Polen een democratie naar EU-maatstaven is.",
+    "sequencenumber":"4",
+    "type":"Item",
+    "maintitles":"09:00-10:00 uur: Vraagtekens bij de Poolse democratie",
+    "id":"543055"
+}
+
+                }
+            ]
+        }
+    ]
+}
