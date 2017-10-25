@@ -88,7 +88,7 @@ var feitFixie = (function () {
 
     return {
         getTitleDescriptionFromURL: getTitleDescriptionFromURL,
-        // getPrivateTermsList: getPrivateTermsList,
+         getPrivateTermsList: getPrivateTermsList,
         getPrivateObjectOfTerms: getPrivateObjectOfTerms
     };
 
